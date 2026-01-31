@@ -1,6 +1,6 @@
 <div align="center">
 
-# Merhaba! 👋 Ben Ahmet
+# Merhaba! 👋 Ben Ayaz
 
 [![GitHub followers](https://img.shields.io/github/followers/abayaz61?style=social)](https://github.com/abayaz61)
 [![GitHub stars](https://img.shields.io/github/stars/abayaz61?style=social)](https://github.com/abayaz61?tab=repositories)
