@@ -1,6 +1,13 @@
 <div align="center">
 
 # Merhaba! 👋 Ben Ayaz
+*try { code(); } catch { coffee(); retry(); }*
+
+*Stack Overflow'dan kopyala-yapıştır yapmıyorum, ilham alıyorum* 😏
+
+*Kodun %10'unu yazıyorum, %90'ını neden çalışmadığını sorgulamakla geçiriyorum*
+
+*Gündüz bug fix, gece deploy, hafta sonu "acil production hatası" - FinTech hayatı* 🚀
 
 [![GitHub followers](https://img.shields.io/github/followers/abayaz61?style=social)](https://github.com/abayaz61)
 [![GitHub stars](https://img.shields.io/github/stars/abayaz61?style=social)](https://github.com/abayaz61?tab=repositories)
@@ -116,6 +123,8 @@ Large Language Model çalışmaları ve deneyler.
 
 <div align="center">
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-codegen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/codegen/)
+[![X](https://img.shields.io/badge/X-@cookiestte-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/cookiestte)
 [![GitHub](https://img.shields.io/badge/GitHub-abayaz61-181717?style=for-the-badge&logo=github)](https://github.com/abayaz61)
 
 </div>
